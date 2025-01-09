@@ -14,4 +14,4 @@ If you Run the tests, you'll find a generated Report within the Terminal with th
 and you will find a screenshot of the failed tests in Support folder
 
 
-Amazon.js and API.js contain the Functions that're used in the Test Files (Amazon.cy.js & API.cy.js)
+Amazon.js and API.js in Support Folder contain the Functions that're used in the Test Files (Amazon.cy.js & API.cy.js)
